@@ -1,0 +1,3745 @@
+{
+  "Sales": [
+    {
+      "SalesId": "b2b_0486992",
+      "Comment": "",
+      "CreatedDate": "2022-02-06T00:00:00",
+      "CreatedBy": "Nimax N.",
+      "ShipmentDate": "2022-02-06T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1459.64,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 1459.63,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 78.94700000002263,
+      "WarehouseName": "СПб - Шушары",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "МКТ-6497",
+      "DeliveryType": "Pickup",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстанта_ЮСК_СПБ_ВАЛ",
+      "ContractUniqKey": "МКТ-6497|6164085607|NotSet|USD",
+      "Editable": true,
+      "EditableItems": true,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "b2b_0486993",
+      "Comment": "",
+      "CreatedDate": "2022-02-06T00:00:00",
+      "CreatedBy": "Nimax N.",
+      "ShipmentDate": "2022-02-06T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1459.64,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 1459.63,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 78.94700000002263,
+      "WarehouseName": "СПб - Шушары",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "МКТ-6497",
+      "DeliveryType": "Pickup",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстанта_ЮСК_СПБ_ВАЛ",
+      "ContractUniqKey": "МКТ-6497|6164085607|NotSet|USD",
+      "Editable": true,
+      "EditableItems": true,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-3062",
+      "Comment": "",
+      "CreatedDate": "2021-11-18T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2022-01-20T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1769.23,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 136000,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "RUR",
+      "ExchRate": 72.82280000001133,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2018/4445_E/MKT/2018/4445",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстан_ЭКВИТИПЛЮС_ГП",
+      "ContractUniqKey": "E/MKT/2018/4445_E/MKT/2018/4445|6164085607|Delivery|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-3062-1",
+      "Comment": "",
+      "CreatedDate": "2022-01-20T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2022-01-20T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1769.23,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 136000,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "408466",
+          "SalesId": "164-3062-1",
+          "Delivery": null,
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 3538.46,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 272000,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 2,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2022-02-15T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Сборка",
+              "State": "Перемещение на склад отгрузки",
+              "ModifiedDate": "2022-02-15T19:30:29",
+              "ActivityType": 2
+            },
+            {
+              "Phase": "Доставка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            }
+          ],
+          "CurrentShipmentState": "Перемещение на склад отгрузки"
+        }
+      ],
+      "Currency": "RUR",
+      "ExchRate": 76.86970000000112,
+      "WarehouseName": "Москва",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2018/4445_E/MKT/2018/4445",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстан_ЭКВИТИПЛЮС_ГП",
+      "ContractUniqKey": "E/MKT/2018/4445_E/MKT/2018/4445|6164085607|Delivery|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "b2b_0486507",
+      "Comment": "КА-00020546001",
+      "CreatedDate": "2022-01-19T00:00:00",
+      "CreatedBy": "Онишков А.",
+      "ShipmentDate": "2022-01-19T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 895.7,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 68372.96,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 5,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "RUR",
+      "ExchRate": 76.33469999999394,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2018/4445",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстанта_ЮСК_МДСПБ",
+      "ContractUniqKey": "E/MKT/2018/4445|6164085607|Pickup|RUR",
+      "Editable": true,
+      "EditableItems": true,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13783",
+      "Comment": "",
+      "CreatedDate": "2022-01-14T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2022-01-14T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 594.3,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 594.36,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 0,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "407313",
+          "SalesId": "110-13783",
+          "Delivery": {
+            "DeliveryId": "1276704",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 2971.5,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 221580,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 150,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2022-01-19T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2022-01-19T17:00:56",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "USD",
+      "ExchRate": 74.56859999998535,
+      "WarehouseName": "Москва",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2017/2048_E/MKT/2017/2048.",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "РФ,г Москва,  Гостиничный проезд,д.4Б,офис210,(2-й этаж),",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2017/2048_E/MKT/2017/2048.|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13774",
+      "Comment": "",
+      "CreatedDate": "2022-01-12T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2022-01-12T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 719.65,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 719.65,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 5,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 74.83549999999114,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-3264",
+      "Comment": "",
+      "CreatedDate": "2021-12-29T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-12-29T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1023.3,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 75208.34,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "RUR",
+      "ExchRate": 73.4959000000092,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстанта_ЮСК_МДСПБ",
+      "ContractUniqKey": "|6164085607|Delivery|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-3227",
+      "Comment": "",
+      "CreatedDate": "2021-12-20T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-12-20T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 6397,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 471669.97,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 8,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "RUR",
+      "ExchRate": 73.73299999997761,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстанта_ЮСК_МДСПБ",
+      "ContractUniqKey": "|6164085607|Delivery|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "b2b_0479215",
+      "Comment": "",
+      "CreatedDate": "2021-12-17T00:00:00",
+      "CreatedBy": "Онишков А.",
+      "ShipmentDate": "2021-12-17T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1960,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 144198.72,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 0,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "393962",
+          "SalesId": "b2b_0479215",
+          "Delivery": {
+            "DeliveryId": "1241267",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 9800,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 720994,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 100,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-12-17T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-12-17T20:59:01",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "RUR",
+      "ExchRate": 73.57079999998328,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2018/4445_E/MKT/2018/4445",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстанта_ЮСК_МДСПБ",
+      "ContractUniqKey": "E/MKT/2018/4445_E/MKT/2018/4445|6164085607|Delivery|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-3222",
+      "Comment": "",
+      "CreatedDate": "2021-12-17T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-12-17T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1050.04,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 1050.04,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 4,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 73.57079999998328,
+      "WarehouseName": "Москва",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-3215",
+      "Comment": "",
+      "CreatedDate": "2021-12-16T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-12-16T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1286.37,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 95000,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "RUR",
+      "ExchRate": 73.85099999998326,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстанта_ЮСК_МДСПБ",
+      "ContractUniqKey": "|6164085607|Delivery|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13748",
+      "Comment": "",
+      "CreatedDate": "2021-12-16T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-12-16T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 2130,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 2130,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "392573",
+          "SalesId": "110-13748",
+          "Delivery": {
+            "DeliveryId": "1239008",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 10650,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 786513,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 100,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-12-16T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-12-16T23:43:38",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "USD",
+      "ExchRate": 73.85099999998326,
+      "WarehouseName": "Москва",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2017/2048_E/MKT/2017/2048.",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "РФ,г Москва,  Гостиничный проезд,д.4Б,офис210,(2-й этаж),",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2017/2048_E/MKT/2017/2048.|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13743",
+      "Comment": "",
+      "CreatedDate": "2021-12-15T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-12-15T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 12452,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 914847.84,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 2,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "392411",
+          "SalesId": "110-13743",
+          "Delivery": {
+            "DeliveryId": "1238693",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 62260,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 4574240,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 200,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-12-16T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-12-16T20:12:40",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "RUR",
+      "ExchRate": 73.46980000001543,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2018/4445_E/MKT/2018/4445",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстанта_ЮСК_МДСПБ",
+      "ContractUniqKey": "E/MKT/2018/4445_E/MKT/2018/4445|6164085607|Delivery|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-3191",
+      "Comment": "",
+      "CreatedDate": "2021-12-13T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-12-13T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 166.65,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 12270.06,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "RUR",
+      "ExchRate": 73.60589999998412,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстанта_ЮСК_МДСПБ",
+      "ContractUniqKey": "|6164085607|Pickup|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13737-1",
+      "Comment": "",
+      "CreatedDate": "2021-12-09T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-12-09T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 534.92,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 39501.52,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "RUR",
+      "ExchRate": 73.84529999998868,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстанта_ЮСК_МДСПБ",
+      "ContractUniqKey": "|6164085607|Pickup|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13737",
+      "Comment": "",
+      "CreatedDate": "2021-12-09T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-12-09T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 18209.46,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 18209.39,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 24,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 73.84529999998868,
+      "WarehouseName": "Москва",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-3137",
+      "Comment": "",
+      "CreatedDate": "2021-12-03T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-12-03T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 3450,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 255519.6,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 2,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "RUR",
+      "ExchRate": 74.06369999997874,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстанта_ЮСК_МДСПБ",
+      "ContractUniqKey": "|6164085607|Pickup|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "b2b_0474254",
+      "Comment": "",
+      "CreatedDate": "2021-12-03T00:00:00",
+      "CreatedBy": "Онишков А.",
+      "ShipmentDate": "2021-12-03T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 175.5,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 12999,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 6,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "RUR",
+      "ExchRate": 74.06369999997874,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2018/4445",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстанта_ЮСК_МДСПБ",
+      "ContractUniqKey": "E/MKT/2018/4445|6164085607|Pickup|RUR",
+      "Editable": true,
+      "EditableItems": true,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13529",
+      "Comment": "",
+      "CreatedDate": "2021-09-16T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-12-02T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 448,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 447.95,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 6,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 72.85200000002511,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Pickup|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13723",
+      "Comment": "",
+      "CreatedDate": "2021-12-02T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-12-02T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 13670.94,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 13670.8,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 4,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 73.9746000000178,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-2864",
+      "Comment": "",
+      "CreatedDate": "2021-09-29T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-12-02T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1200,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 1200,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 2,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "381898",
+          "SalesId": "164-2864",
+          "Delivery": {
+            "DeliveryId": "1213862",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 6000,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 443847.5,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 50,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-12-02T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-12-02T23:48:15",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "USD",
+      "ExchRate": 72.508299999995,
+      "WarehouseName": "Москва",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2017/2048_E/MKT/2017/2048.",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "РФ,г Москва,  Гостиничный проезд,д.4Б,офис210,(2-й этаж),",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2017/2048_E/MKT/2017/2048.|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13706",
+      "Comment": "",
+      "CreatedDate": "2021-11-24T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-11-30T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 171.03,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 12824,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "RUR",
+      "ExchRate": 74.83270000002052,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Pickup|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-3114",
+      "Comment": "",
+      "CreatedDate": "2021-11-26T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-11-26T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 11540,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 860888.62,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 7,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "RUR",
+      "ExchRate": 74.6003999999977,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Delivery|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13688",
+      "Comment": "",
+      "CreatedDate": "2021-11-18T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-11-26T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1212,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 1212,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "381651",
+          "SalesId": "110-13688",
+          "Delivery": {
+            "DeliveryId": "1213393",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 6060,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 441306.2,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 20,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-12-02T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-12-03T00:39:50",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "USD",
+      "ExchRate": 72.82280000001133,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2017/2048_E/MKT/2017/2048.",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "РФ,Ростовская обл, Ростов-на-Дону г,2-я Володарского ул,д.76/23а,офис203,",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2017/2048_E/MKT/2017/2048.|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13709",
+      "Comment": "",
+      "CreatedDate": "2021-11-24T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-11-24T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1884.2,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 141000,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 2,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "376538",
+          "SalesId": "110-13709",
+          "Delivery": {
+            "DeliveryId": "1199100",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 9421,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 705000,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 10,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-11-25T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-11-27T13:54:54",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "RUR",
+      "ExchRate": 74.83270000002052,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2018/4445_E/MKT/2018/4445",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2018/4445_E/MKT/2018/4445|6164085607|Delivery|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-3079",
+      "Comment": "",
+      "CreatedDate": "2021-11-22T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-11-22T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 220.5,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 16044.2,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "RUR",
+      "ExchRate": 72.76169999997694,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Pickup|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13668",
+      "Comment": "",
+      "CreatedDate": "2021-11-15T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-11-15T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 233.7,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 233.7,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "391985",
+          "SalesId": "110-13668",
+          "Delivery": {
+            "DeliveryId": "1237344",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 1168.5,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 83912.1,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 5,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-12-15T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-12-15T22:25:33",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "USD",
+      "ExchRate": 71.81180000001652,
+      "WarehouseName": "Москва",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2017/2048_E/MKT/2017/2048.",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "РФ,г Москва,  Гостиничный проезд,д.4Б,офис210,(2-й этаж),",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2017/2048_E/MKT/2017/2048.|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13586",
+      "Comment": "",
+      "CreatedDate": "2021-10-20T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-11-15T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 5410,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 5409.97,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 4,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "368798",
+          "SalesId": "110-13586",
+          "Delivery": {
+            "DeliveryId": "1181388",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 27050,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 1942509,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 50,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-11-15T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-11-15T18:21:44",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "USD",
+      "ExchRate": 70.9673999999909,
+      "WarehouseName": "Москва",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2017/2048_E/MKT/2017/2048.",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "РФ,г Москва,  Гостиничный проезд,д.4Б,офис210,(2-й этаж),",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2017/2048_E/MKT/2017/2048.|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13648",
+      "Comment": "",
+      "CreatedDate": "2021-11-10T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-11-10T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 930,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 930,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 71.2866000000064,
+      "WarehouseName": "Москва",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Pickup|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13650",
+      "Comment": "",
+      "CreatedDate": "2021-11-10T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-11-10T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1090,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 1089.96,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 71.2866000000064,
+      "WarehouseName": "Москва",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Pickup|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-2968",
+      "Comment": "",
+      "CreatedDate": "2021-10-28T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-10-28T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 818,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 818.02,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 69.81039999999835,
+      "WarehouseName": "Москва",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Pickup|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13575",
+      "Comment": "",
+      "CreatedDate": "2021-10-19T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-10-19T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 5150,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 5149.8,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 7,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 71.17139999997468,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Pickup|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-2818",
+      "Comment": "",
+      "CreatedDate": "2021-09-21T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-10-19T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 532.59,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 532.58,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "354404",
+          "SalesId": "164-2818",
+          "Delivery": {
+            "DeliveryId": "1151010",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 2662.95,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 195278.1,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 5,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-10-19T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-10-20T00:22:01",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "USD",
+      "ExchRate": 73.33149999998648,
+      "WarehouseName": "Москва",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2017/2048_E/MKT/2017/2048.",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "РФ,Ростовская обл, Ростов-на-Дону г,2-я Володарского ул,д.76/23а,офис203,",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2017/2048_E/MKT/2017/2048.|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-2845",
+      "Comment": "",
+      "CreatedDate": "2021-09-27T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-10-18T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 2682,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 191050,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 2,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "353555",
+          "SalesId": "164-2845",
+          "Delivery": {
+            "DeliveryId": "1149493",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 13410,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 955250,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 125,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-10-18T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-10-18T18:16:20",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "RUR",
+      "ExchRate": 71.23709999999255,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2018/4445_E/MKT/2018/4445",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "РФ,Ростовская обл, Ростов-на-Дону г,2-я Володарского ул,д.76/23а,офис203,",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2018/4445_E/MKT/2018/4445|6164085607|Delivery|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-2799-2",
+      "Comment": "",
+      "CreatedDate": "2021-09-29T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-10-13T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 661.5,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 661.5,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "350850",
+          "SalesId": "164-2799-2",
+          "Delivery": {
+            "DeliveryId": "1144629",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 4630.5,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 332840.55,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 105,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-10-13T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-10-13T15:36:57",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "USD",
+      "ExchRate": 72.4329000000043,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2017/2048_E/MKT/2017/2048.",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2017/2048_E/MKT/2017/2048.|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-2799",
+      "Comment": "",
+      "CreatedDate": "2021-09-17T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-09-29T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1102.5,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 1102.5,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "343272",
+          "SalesId": "164-2799",
+          "Delivery": {
+            "DeliveryId": "1130954",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 5512.5,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 399702.5,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 125,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-09-29T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-09-30T08:05:48",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "USD",
+      "ExchRate": 72.4329000000043,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2017/2048_E/MKT/2017/2048.",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2017/2048_E/MKT/2017/2048.|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-2815",
+      "Comment": "",
+      "CreatedDate": "2021-09-21T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-09-28T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 4892,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 4892,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 3,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "342997",
+          "SalesId": "164-2815",
+          "Delivery": {
+            "DeliveryId": "1131672",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 24460,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 1793688.4,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 30,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-09-28T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-09-30T08:24:09",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "USD",
+      "ExchRate": 73.33149999998648,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2017/2048_164-2815",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "Саратовская обл, Саратов г,Танкистов ул.,д.37,офис307,БЦ \"Дикомп\",",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2017/2048_164-2815|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-2854",
+      "Comment": "",
+      "CreatedDate": "2021-09-28T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-09-28T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 5192.17,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 5192.14,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 4,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 72.66130000002535,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Pickup|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-2822",
+      "Comment": "",
+      "CreatedDate": "2021-09-22T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-09-27T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 853,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 853,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "343890",
+          "SalesId": "164-2822",
+          "Delivery": {
+            "DeliveryId": "1131583",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 4265,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 311379.55,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 5,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-09-29T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-09-30T07:33:58",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "USD",
+      "ExchRate": 73.20669999999703,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2017/2048_164-2822",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "Саратовская обл, Саратов г,Антонова ул.,д.4,",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2017/2048_164-2822|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-2832",
+      "Comment": "",
+      "CreatedDate": "2021-09-23T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-09-23T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 71.02,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 71.02,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "354925",
+          "SalesId": "164-2832",
+          "Delivery": null,
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 426.12,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 31055.88,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 6,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-10-20T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-10-20T13:05:06",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "USD",
+      "ExchRate": 72.88059999999466,
+      "WarehouseName": "Электронно",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2017/2048",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2017/2048|6164085607|Pickup|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-2799-1",
+      "Comment": "",
+      "CreatedDate": "2021-09-17T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-09-17T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1323,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 1323,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 2,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "337666",
+          "SalesId": "164-2799-1",
+          "Delivery": {
+            "DeliveryId": "1120174",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 6615,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 479143.5,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 150,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-09-17T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-09-18T07:02:51",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "USD",
+      "ExchRate": 72.4329000000043,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2017/2048_E/MKT/2017/2048.",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2017/2048_E/MKT/2017/2048.|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-2799-3",
+      "Comment": "",
+      "CreatedDate": "2021-10-13T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-09-17T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 882,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 882,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 2,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 72.4329000000043,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Pickup|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-2789",
+      "Comment": "",
+      "CreatedDate": "2021-09-16T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-09-16T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1690,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 1690.01,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 72.85200000002511,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Pickup|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-2794",
+      "Comment": "",
+      "CreatedDate": "2021-09-16T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-09-16T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 1524.54,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 1524.54,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "340162",
+          "SalesId": "164-2794",
+          "Delivery": null,
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 9147.24,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 666394.74,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 6,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-09-23T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-09-23T14:37:05",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "USD",
+      "ExchRate": 72.85200000002511,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2017/2048_E/MKT/2017/2048.",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "E/MKT/2017/2048_E/MKT/2017/2048.|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13519",
+      "Comment": "",
+      "CreatedDate": "2021-09-10T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-09-10T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 7996.71,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 584800,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "342157",
+          "SalesId": "110-13519",
+          "Delivery": {
+            "DeliveryId": "1128996",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 39983.55,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 2924000,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 215,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-09-27T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-09-28T06:22:47",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "RUR",
+      "ExchRate": 73.12900000002104,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2018/4445_E/MKT/2018/4445",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстанта_ЮСК_МДСПБ",
+      "ContractUniqKey": "E/MKT/2018/4445_E/MKT/2018/4445|6164085607|Delivery|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "b2b_0445508",
+      "Comment": "",
+      "CreatedDate": "2021-08-26T00:00:00",
+      "CreatedBy": "Онишков А.",
+      "ShipmentDate": "2021-09-03T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 3964.76,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 288827.97,
+          "Currency": "RUR"
+        }
+      },
+      "OrderItemCount": 5,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "330557",
+          "SalesId": "b2b_0445508",
+          "Delivery": {
+            "DeliveryId": "1107343",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 19823.8,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 1444140,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 50,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-09-03T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-09-04T14:54:08",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "RUR",
+      "ExchRate": 73.74279999998093,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2018/4445_E/MKT/2018/4445",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "Инстанта_ЮСК_МДСПБ",
+      "ContractUniqKey": "E/MKT/2018/4445_E/MKT/2018/4445|6164085607|Delivery|RUR",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "164-2746",
+      "Comment": "",
+      "CreatedDate": "2021-08-18T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-09-02T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 9021.15,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 9021.14,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 6,
+      "ShipmentStatus": 2,
+      "PaymentStatus": 2,
+      "Shipments": [
+        {
+          "ShipmentNo": 1,
+          "PickingListId": "330678",
+          "SalesId": "164-2746",
+          "Delivery": {
+            "DeliveryId": "1107498",
+            "Status": "100"
+          },
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 40567.05,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 2980676.2,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 25,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-09-03T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-09-04T09:28:13",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        },
+        {
+          "ShipmentNo": 2,
+          "PickingListId": "335883",
+          "SalesId": "164-2746",
+          "Delivery": null,
+          "OrderItemSum": {
+            "Usd": {
+              "Value": 5446.44,
+              "Currency": "USD"
+            },
+            "NationalCurrency": {
+              "Value": 400178.82,
+              "Currency": "RUR"
+            }
+          },
+          "OrderItemCount": 6,
+          "ShipmentStates": [
+            {
+              "Phase": "Подготовка",
+              "State": "Подготовлен",
+              "ModifiedDate": "2021-09-15T00:00:00",
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Оплата",
+              "State": "Оплачен",
+              "ModifiedDate": null,
+              "ActivityType": 1
+            },
+            {
+              "Phase": "Сборка",
+              "State": null,
+              "ModifiedDate": null,
+              "ActivityType": 0
+            },
+            {
+              "Phase": "Доставка",
+              "State": "Доставлен",
+              "ModifiedDate": "2021-09-15T14:54:02",
+              "ActivityType": 1
+            }
+          ],
+          "CurrentShipmentState": "Доставлен"
+        }
+      ],
+      "Currency": "USD",
+      "ExchRate": 73.47529999999209,
+      "WarehouseName": "Москва",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "E/MKT/2017/2048_E/MKT/2017/2048.",
+      "DeliveryType": "Доставка",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "РФ,г Москва,  Гостиничный проезд,д.4Б,офис210,(2-й этаж),",
+      "ConsigneeAccount": "Инстанта_ЮСК_СПБ_ВАЛ",
+      "ContractUniqKey": "E/MKT/2017/2048_E/MKT/2017/2048.|6164085607|Delivery|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13459",
+      "Comment": "",
+      "CreatedDate": "2021-08-20T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-08-20T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 74876.1,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 74876.1,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 16,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 74.15029999998225,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Pickup|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    },
+    {
+      "SalesId": "110-13460",
+      "Comment": "",
+      "CreatedDate": "2021-08-20T00:00:00",
+      "CreatedBy": "Marvel",
+      "ShipmentDate": "2021-08-20T00:00:00",
+      "OrderItemSum": {
+        "Usd": {
+          "Value": 7769.3,
+          "Currency": "USD"
+        },
+        "NationalCurrency": {
+          "Value": 7769.3,
+          "Currency": "USD"
+        }
+      },
+      "OrderItemCount": 1,
+      "ShipmentStatus": 0,
+      "PaymentStatus": 0,
+      "Shipments": null,
+      "Currency": "USD",
+      "ExchRate": 74.15029999998225,
+      "WarehouseName": "МСК - Валищево",
+      "CompanyName": "ООО \"Южная Софтверная Компания\"",
+      "ContractId": "",
+      "DeliveryType": "Самовывоз",
+      "MarvelJuridical": null,
+      "ClientInn": "6164085607",
+      "DeliveryAdress": "",
+      "ConsigneeAccount": "",
+      "ContractUniqKey": "|6164085607|Pickup|USD",
+      "Editable": false,
+      "EditableItems": false,
+      "HasInvoice": true,
+      "HasDocs": false,
+      "HasWarehousePass": false,
+      "Warnings": [
+        {
+          "Type": 1,
+          "ShortDesc": "Нет цены у товара",
+          "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        },
+        {
+          "Type": 2,
+          "ShortDesc": "Недостаточно резервов",
+          "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+          "OrderItemIds": ["mrv33330677"],
+          "ActionType": 1
+        }
+      ]
+    }
+  ]
+}

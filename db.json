@@ -1,0 +1,46 @@
+{
+	"orders": [
+		{
+			"orderID": "0AC3AB6D-7365-4386-97FD-000053B3D433",		
+			"orderNum": 5201129971510187,
+			"orderItemsCount": "1",
+			"orderStatus": "Доставлен",
+			"orderStatusCode": "2",
+			"createdDate": "2020-09-25 06:59:46.000",
+			"paymentType": "Предоплата",
+			"paymentStatus": "Оплачен",
+			"paymentDate": "2020-12-22 19:33:55.000",
+			"orderSum": "15 670.00",
+			"sourceId": "XIAOMI"
+		},
+		{
+			"orderID": "0AC3AB6D-7365-4386-97FD-000053B3D433",		
+			"orderNum": 5201129971510187,
+			"orderItemsCount": "2",
+			"orderStatus": "Не отгружался",
+			"orderStatusCode": "1",
+			"createdDate": "2020-10-31 12:02:34.000",
+			"paymentType": "Предоплата",
+			"paymentStatus": "Оплачен",
+			"paymentDate": "2021-09-08 10:27:57.000",
+			"orderSum": "25 604.15",
+			"sourceId": "XIAOMI"
+		},
+		{
+			"orderID": "0AC3AB6D-7365-4386-97FD-000053B3D433",		
+			"orderNum": 5201129971510187,
+			"orderItemsCount": "5",
+			"orderStatus": "Отменен",
+			"orderStatusCode": "0",
+			"createdDate": "2021-02-19 13:41:09.000",
+			"paymentType": "Постоплата",
+			"paymentStatus": "Не оплачен",
+			"paymentDate": "2020-11-11 12:55:01.000",
+			"orderSum": "2 000.00",
+			"sourceId": "XIAOMI"
+		}
+	],
+	"perPageCount": 50,
+	"totalPages": 5,
+	"currentPage": 1
+}

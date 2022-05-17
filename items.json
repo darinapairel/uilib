@@ -1,0 +1,475 @@
+{
+  "OrderItemCount": 5,
+  "OrderItems": [
+      {
+          "Id": "076310284mrv",
+          "SalesId": "b2b_0438470",
+          "Item": {
+              "ItemInternalId": "481360",
+              "ItemId": "KIN-1200AP LCD",
+              "WareName": "King Pro RM, Интерактивная, 1200 ВА / 960 Вт, Rack, IEC, LCD, Serial+USB, USB, SmartSlot",
+              "Vendor": "Powercom",
+              "CategoryTree": [
+                  [
+                      {
+                          "Name": "Сбесп",
+                          "DisplayName": "Системы бесперебойного питания",
+                          "MachineName": "Сбесп"
+                      },
+                      {
+                          "Name": "Сбесп_ИБП",
+                          "DisplayName": "ИБП",
+                          "MachineName": "Сбесп_ИБП"
+                      },
+                      {
+                          "Name": "Сбесп_Smart UPS",
+                          "DisplayName": "Smart-UPS",
+                          "MachineName": "Сбесп_Smart UPS"
+                      }
+                  ]
+              ],
+              "Image": "https://sandbox-b2b.marvel.ru/AppData/items/481360/094f31c2-002b-4b92-92e2-b97e57ed48c5.png",
+              "Price": {
+                  "PriceList": {
+                      "PriceValue": 236,
+                      "PriceCurrency": "USD"
+                  },
+                  "Usd": {
+                      "PriceValue": 236,
+                      "PriceCurrency": "USD"
+                  },
+                  "NationalCurrency": {
+                      "PriceValue": 17364,
+                      "PriceCurrency": "RUR"
+                  }
+              },
+              "ProductAvailableQty": {
+                  "InWarehouse": {
+                      "Qty": -1,
+                      "NotFree": 1,
+                      "InCity": -1
+                  },
+                  "InTransit": {
+                      "Qty": -1,
+                      "NotFree": 0,
+                      "InNearTransit": 0,
+                      "InFarTransit": 15
+                  },
+                  "Available": -1,
+                  "InventDimId": "000000007mrv"
+              },
+              "Options": {
+                  "ItemInternalId": "481360",
+                  "ItemId": "KIN-1200AP LCD",
+                  "ConditionId": "OK",
+                  "PileId": "осн",
+                  "Qty": 0
+              }
+          },
+          "Options": {
+              "ConditionId": "OK",
+              "PileId": "осн",
+              "WarehouseName": null,
+              "ExternalId": "",
+              "GTD": "10216170/070321/0060321/2",
+              "InventDimId": null
+          },
+          "Qty": 2,
+          "Reserve": {
+              "WarehouseQty": 0,
+              "TransitQty": 0,
+              "ExpirationDate": null,
+              "RequestStatus": 0
+          },
+          "Shipping": [
+              {
+                  "PickingListId": "313474",
+                  "Qty": 2,
+                  "LineNumber": 1
+              }
+          ],
+          "CreatedBy": "Рыбкин М.",
+          "Comment": "",
+          "Warnings": null,
+          "LineNumber": 1
+      },
+      {
+          "Id": "076310287mrv",
+          "SalesId": "b2b_0438470",
+          "Item": {
+              "ItemInternalId": "481358",
+              "ItemId": "KIN-2200AP LCD",
+              "WareName": "King Pro RM, Интерактивная, 2200 ВА / 1760 Вт, Rack, IEC, LCD, Serial+USB, USB, SmartSlot",
+              "Vendor": "Powercom",
+              "CategoryTree": [
+                  [
+                      {
+                          "Name": "Сбесп",
+                          "DisplayName": "Системы бесперебойного питания",
+                          "MachineName": "Сбесп"
+                      },
+                      {
+                          "Name": "Сбесп_ИБП",
+                          "DisplayName": "ИБП",
+                          "MachineName": "Сбесп_ИБП"
+                      },
+                      {
+                          "Name": "Сбесп_Smart UPS",
+                          "DisplayName": "Smart-UPS",
+                          "MachineName": "Сбесп_Smart UPS"
+                      }
+                  ]
+              ],
+              "Image": "https://sandbox-b2b.marvel.ru/AppData/items/481358/0060ec03-1a58-49b5-81d4-b8eaf141b933.png",
+              "Price": {
+                  "PriceList": {
+                      "PriceValue": 385,
+                      "PriceCurrency": "USD"
+                  },
+                  "Usd": {
+                      "PriceValue": 385,
+                      "PriceCurrency": "USD"
+                  },
+                  "NationalCurrency": {
+                      "PriceValue": 28369,
+                      "PriceCurrency": "RUR"
+                  }
+              },
+              "ProductAvailableQty": {
+                  "InWarehouse": {
+                      "Qty": 1,
+                      "NotFree": 8,
+                      "InCity": 0
+                  },
+                  "InTransit": {
+                      "Qty": -1,
+                      "NotFree": 0,
+                      "InNearTransit": 0,
+                      "InFarTransit": 9
+                  },
+                  "Available": 1,
+                  "InventDimId": "000000007mrv"
+              },
+              "Options": {
+                  "ItemInternalId": "481358",
+                  "ItemId": "KIN-2200AP LCD",
+                  "ConditionId": "OK",
+                  "PileId": "осн",
+                  "Qty": 0
+              }
+          },
+          "Options": {
+              "ConditionId": "OK",
+              "PileId": "осн",
+              "WarehouseName": null,
+              "ExternalId": "",
+              "GTD": "10131010/111220/0244980/2",
+              "InventDimId": null
+          },
+          "Qty": 1,
+          "Reserve": {
+              "WarehouseQty": 0,
+              "TransitQty": 0,
+              "ExpirationDate": null,
+              "RequestStatus": 0
+          },
+          "Shipping": [
+              {
+                  "PickingListId": "313474",
+                  "Qty": 1,
+                  "LineNumber": 2
+              }
+          ],
+          "CreatedBy": "Рыбкин М.",
+          "Comment": "",
+          "Warnings": null,
+          "LineNumber": 2
+      },
+      {
+          "Id": "076310289mrv",
+          "SalesId": "b2b_0438470",
+          "Item": {
+              "ItemInternalId": "481358",
+              "ItemId": "KIN-2200AP LCD",
+              "WareName": "King Pro RM, Интерактивная, 2200 ВА / 1760 Вт, Rack, IEC, LCD, Serial+USB, USB, SmartSlot",
+              "Vendor": "Powercom",
+              "CategoryTree": [
+                  [
+                      {
+                          "Name": "Сбесп",
+                          "DisplayName": "Системы бесперебойного питания",
+                          "MachineName": "Сбесп"
+                      },
+                      {
+                          "Name": "Сбесп_ИБП",
+                          "DisplayName": "ИБП",
+                          "MachineName": "Сбесп_ИБП"
+                      },
+                      {
+                          "Name": "Сбесп_Smart UPS",
+                          "DisplayName": "Smart-UPS",
+                          "MachineName": "Сбесп_Smart UPS"
+                      }
+                  ]
+              ],
+              "Image": "https://sandbox-b2b.marvel.ru/AppData/items/481358/0060ec03-1a58-49b5-81d4-b8eaf141b933.png",
+              "Price": {
+                  "PriceList": {
+                      "PriceValue": 385,
+                      "PriceCurrency": "USD"
+                  },
+                  "Usd": {
+                      "PriceValue": 385,
+                      "PriceCurrency": "USD"
+                  },
+                  "NationalCurrency": {
+                      "PriceValue": 28369,
+                      "PriceCurrency": "RUR"
+                  }
+              },
+              "ProductAvailableQty": {
+                  "InWarehouse": {
+                      "Qty": 1,
+                      "NotFree": 8,
+                      "InCity": 0
+                  },
+                  "InTransit": {
+                      "Qty": -1,
+                      "NotFree": 0,
+                      "InNearTransit": 0,
+                      "InFarTransit": 9
+                  },
+                  "Available": 1,
+                  "InventDimId": "000000007mrv"
+              },
+              "Options": {
+                  "ItemInternalId": "481358",
+                  "ItemId": "KIN-2200AP LCD",
+                  "ConditionId": "OK",
+                  "PileId": "осн",
+                  "Qty": 0
+              }
+          },
+          "Options": {
+              "ConditionId": "OK",
+              "PileId": "осн",
+              "WarehouseName": null,
+              "ExternalId": "",
+              "GTD": "10013160/231020/0595297/1",
+              "InventDimId": null
+          },
+          "Qty": 1,
+          "Reserve": {
+              "WarehouseQty": 0,
+              "TransitQty": 0,
+              "ExpirationDate": null,
+              "RequestStatus": 0
+          },
+          "Shipping": [
+              {
+                  "PickingListId": "313474",
+                  "Qty": 1,
+                  "LineNumber": 3
+              }
+          ],
+          "CreatedBy": "Рыбкин М.",
+          "Comment": "",
+          "Warnings": null,
+          "LineNumber": 3
+      },
+      {
+          "Id": "076310290mrv",
+          "SalesId": "b2b_0438470",
+          "Item": {
+              "ItemInternalId": "398028",
+              "ItemId": "RAL-5090",
+              "WareName": "Рельсы монтажные Powercom RAL5090",
+              "Vendor": "Powercom",
+              "CategoryTree": [
+                  [
+                      {
+                          "Name": "Сбесп",
+                          "DisplayName": "Системы бесперебойного питания",
+                          "MachineName": "Сбесп"
+                      },
+                      {
+                          "Name": "Сбесп_ИБП",
+                          "DisplayName": "ИБП",
+                          "MachineName": "Сбесп_ИБП"
+                      },
+                      {
+                          "Name": "Сбесп_Options",
+                          "DisplayName": "Options",
+                          "MachineName": "Сбесп_Options"
+                      }
+                  ]
+              ],
+              "Image": "https://sandbox-b2b.marvel.ru/AppData/items/398028/00b79c87-3b40-445a-b26d-c969fa3fcb59.png",
+              "Price": {
+                  "PriceList": {
+                      "PriceValue": 26,
+                      "PriceCurrency": "USD"
+                  },
+                  "Usd": {
+                      "PriceValue": 26,
+                      "PriceCurrency": "USD"
+                  },
+                  "NationalCurrency": {
+                      "PriceValue": 1892,
+                      "PriceCurrency": "RUR"
+                  }
+              },
+              "ProductAvailableQty": {
+                  "InWarehouse": {
+                      "Qty": 52,
+                      "NotFree": 33,
+                      "InCity": 0
+                  },
+                  "InTransit": {
+                      "Qty": -1,
+                      "NotFree": 0,
+                      "InNearTransit": 0,
+                      "InFarTransit": 64
+                  },
+                  "Available": 52,
+                  "InventDimId": "000000007mrv"
+              },
+              "Options": {
+                  "ItemInternalId": "398028",
+                  "ItemId": "RAL-5090",
+                  "ConditionId": "OK",
+                  "PileId": "осн",
+                  "Qty": 0
+              }
+          },
+          "Options": {
+              "ConditionId": "OK",
+              "PileId": "осн",
+              "WarehouseName": null,
+              "ExternalId": "",
+              "GTD": "10216170/070321/0060321/1",
+              "InventDimId": null
+          },
+          "Qty": 3,
+          "Reserve": {
+              "WarehouseQty": 0,
+              "TransitQty": 0,
+              "ExpirationDate": null,
+              "RequestStatus": 0
+          },
+          "Shipping": [
+              {
+                  "PickingListId": "313474",
+                  "Qty": 1,
+                  "LineNumber": 4
+              },
+              {
+                  "PickingListId": "313475",
+                  "Qty": 2,
+                  "LineNumber": 4
+              }
+          ],
+          "CreatedBy": "Рыбкин М.",
+          "Comment": "",
+          "Warnings": null,
+          "LineNumber": 4
+      },
+      {
+          "Id": "076310293mrv",
+          "SalesId": "b2b_0438470",
+          "Item": {
+              "ItemInternalId": "398028",
+              "ItemId": "RAL-5090",
+              "WareName": "Рельсы монтажные Powercom RAL5090",
+              "Vendor": "Powercom",
+              "CategoryTree": [
+                  [
+                      {
+                          "Name": "Сбесп",
+                          "DisplayName": "Системы бесперебойного питания",
+                          "MachineName": "Сбесп"
+                      },
+                      {
+                          "Name": "Сбесп_ИБП",
+                          "DisplayName": "ИБП",
+                          "MachineName": "Сбесп_ИБП"
+                      },
+                      {
+                          "Name": "Сбесп_Options",
+                          "DisplayName": "Options",
+                          "MachineName": "Сбесп_Options"
+                      }
+                  ]
+              ],
+              "Image": "https://sandbox-b2b.marvel.ru/AppData/items/398028/00b79c87-3b40-445a-b26d-c969fa3fcb59.png",
+              "Price": {
+                  "PriceList": {
+                      "PriceValue": 26,
+                      "PriceCurrency": "USD"
+                  },
+                  "Usd": {
+                      "PriceValue": 26,
+                      "PriceCurrency": "USD"
+                  },
+                  "NationalCurrency": {
+                      "PriceValue": 1892,
+                      "PriceCurrency": "RUR"
+                  }
+              },
+              "ProductAvailableQty": {
+                  "InWarehouse": {
+                      "Qty": 52,
+                      "NotFree": 33,
+                      "InCity": 0
+                  },
+                  "InTransit": {
+                      "Qty": -1,
+                      "NotFree": 0,
+                      "InNearTransit": 0,
+                      "InFarTransit": 64
+                  },
+                  "Available": 52,
+                  "InventDimId": "000000007mrv"
+              },
+              "Options": {
+                  "ItemInternalId": "398028",
+                  "ItemId": "RAL-5090",
+                  "ConditionId": "OK",
+                  "PileId": "осн",
+                  "Qty": 0
+              }
+          },
+          "Options": {
+              "ConditionId": "OK",
+              "PileId": "осн",
+              "WarehouseName": null,
+              "ExternalId": "",
+              "GTD": "10013160/221220/0745814/1",
+              "InventDimId": null
+          },
+          "Qty": 1,
+          "Reserve": {
+              "WarehouseQty": 0,
+              "TransitQty": 0,
+              "ExpirationDate": null,
+              "RequestStatus": 0
+          },
+          "Shipping": [
+              {
+                  "PickingListId": "313474",
+                  "Qty": 1,
+                  "LineNumber": 5
+              },
+              {
+                  "PickingListId": "313475",
+                  "Qty": 2,
+                  "LineNumber": 5
+              }
+          ],
+          "CreatedBy": "Рыбкин М.",
+          "Comment": "",
+          "Warnings": null,
+          "LineNumber": 5
+      }
+  ]
+}

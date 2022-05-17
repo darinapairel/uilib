@@ -1,0 +1,152 @@
+{
+    "SalesId": "45678",
+    "Comment": "Совгавань",
+    "CreatedDate": "2021-07-29T00:00:00",
+    "CreatedBy": "Рыбкин М.",
+    "ShipmentDate": "2021-07-29T00:00:00",
+    "OrderItemSum": {
+        "Usd": {
+            "Value": 1345.4,
+            "Currency": "USD"
+        },
+        "NationalCurrency": {
+            "Value": 99033.3,
+            "Currency": "RUR"
+        }
+    },
+    "OrderItemCount": 5,
+    "ShipmentStatus": 2,
+    "PaymentStatus": 2,
+    "Shipments": [
+        {
+            "ShipmentNo": 1,
+            "PickingListId": "313475",
+            "SalesId": "b2b_0438470",
+            "Delivery": {
+                "DeliveryId": "1081906",
+                "Status": "100"
+            },
+            "OrderItemSum": {
+                "Usd": {
+                    "Value": 359.8,
+                    "Currency": "USD"
+                },
+                "NationalCurrency": {
+                    "Value": 26484.5,
+                    "Currency": "RUR"
+                }
+            },
+            "OrderItemCount": 14,
+            "ShipmentStates": [
+                {
+                    "Phase": "Подготовка",
+                    "State": "Подготовлен",
+                    "ModifiedDate": "2021-07-30T00:00:00",
+                    "ActivityType": 1
+                },
+                {
+                    "Phase": "Оплата",
+                    "State": "Оплачен",
+                    "ModifiedDate": null,
+                    "ActivityType": 1
+                },
+                {
+                    "Phase": "Сборка",
+                    "State": null,
+                    "ModifiedDate": null,
+                    "ActivityType": 0
+                },
+                {
+                    "Phase": "Доставка",
+                    "State": "Доставлен",
+                    "ModifiedDate": "2021-08-02T23:48:11",
+                    "ActivityType": 1
+                }
+            ],
+            "CurrentShipmentState": "Доставлен"
+        },
+        {
+            "ShipmentNo": 2,
+            "PickingListId": "313474",
+            "SalesId": "b2b_0438470",
+            "Delivery": {
+                "DeliveryId": "1081907",
+                "Status": "100"
+            },
+            "OrderItemSum": {
+                "Usd": {
+                    "Value": 9058,
+                    "Currency": "USD"
+                },
+                "NationalCurrency": {
+                    "Value": 666748.6,
+                    "Currency": "RUR"
+                }
+            },
+            "OrderItemCount": 42,
+            "ShipmentStates": [
+                {
+                    "Phase": "Подготовка",
+                    "State": "Подготовлен",
+                    "ModifiedDate": "2021-07-30T00:00:00",
+                    "ActivityType": 1
+                },
+                {
+                    "Phase": "Оплата",
+                    "State": "Оплачен",
+                    "ModifiedDate": null,
+                    "ActivityType": 1
+                },
+                {
+                    "Phase": "Сборка",
+                    "State": null,
+                    "ModifiedDate": null,
+                    "ActivityType": 0
+                },
+                {
+                    "Phase": "Доставка",
+                    "State": "Доставлен",
+                    "ModifiedDate": "2021-08-02T23:47:33",
+                    "ActivityType": 1
+                }
+            ],
+            "CurrentShipmentState": "Доставлен"
+        }
+    ],
+    "Currency": "RUR",
+    "ExchRate": 73.60880000001448,
+    "WarehouseName": "МСК - Валищево",
+    "CompanyName": "ООО \"Фирма 2К\"",
+    "ContractId": "E/MKT/2017/1561_E/MKT/2017/1561.",
+    "DeliveryType": "Доставка",
+    "MarvelJuridical": null,
+    "ClientInn": "2725002665",
+    "DeliveryAdress": "РФ,Хабаровский край, Хабаровск г,Станционный пер,д.17,",
+    "ConsigneeAccount": "2K_VAD",
+    "ContractUniqKey": "E/MKT/2017/1561_E/MKT/2017/1561.|2725002665|Delivery|RUR",
+    "Editable": false,
+    "EditableItems": false,
+    "HasInvoice": true,
+    "HasDocs": false,
+    "HasWarehousePass": false,
+    "Warnings": [
+        {
+            "Type": 1,
+            "ShortDesc": "Нет цены у товара",
+            "FullDesc": "В заказе присутствует товар с нулевой ценой.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Свяжитесь с менеджером для корректировки заказа.",
+            "OrderItemIds": [
+                "mrv33330677"
+            ],
+            "ActionType": 1
+        },
+        {
+            "Type": 2,
+            "ShortDesc": "Недостаточно резервов",
+            "FullDesc": "В заказе присутствуют незарезервированные позиции.На такой заказ нельзя скачать счет, заказ невозможно отгрузить в автоматическом режиме.Скорректируйте заказ, либо свяжитесь с менеджером.",
+            "OrderItemIds": [
+                "mrv33330677"
+            ],
+            "ActionType": 1
+        }
+    ]
+}
